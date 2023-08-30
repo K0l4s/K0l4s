@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huỳnh Trung Kiên</h1>
 <h3 align="center">I'm currently studing Information Technology at HCMC. University of Technology and Education</h3>
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" alt="Coding" width="480" height="360"/> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k0l4s&label=Profile%20views&color=0e75b6&style=flat" alt="k0l4s" /> </p>
 
 - 🌱 I’m currently learning **.NET FRAMEWORK, JAVASCRIPT, TYPESCRIPT, etc**
