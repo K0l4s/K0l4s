@@ -38,12 +38,7 @@ Instagram:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=K0l4s" alt="K0l4s" /></a> </p>
 
 <h1 align="center">Github Details</h1>
+<div>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=k0l4s&show_icons=true&locale=en&layout=compact" alt="k0l4s" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=k0l4s&show_icons=true&locale=en" alt="k0l4s" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=k0l4s&" alt="k0l4s" /></p>
-
-<hr>
-
-
-
-<h3 align="center">Thanks for visiting my github!</h3>
+<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=k0l4s&show_icons=true&locale=en" alt="k0l4s" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=k0l4s&" alt="k0l4s" /></p>
+</div>
