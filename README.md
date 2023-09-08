@@ -39,6 +39,7 @@ Instagram:
 
 <h1 align="center">Github Details</h1>
 <div>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=k0l4s&show_icons=true&locale=en&layout=compact" alt="k0l4s" /></p>
-<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=k0l4s&show_icons=true&locale=en" alt="k0l4s" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=k0l4s&" alt="k0l4s" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=k0l4s&show_icons=true&locale=en&layout=compact" alt="k0l4s" /> </p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=k0l4s&show_icons=true&locale=en" alt="k0l4s" /> </p>
+<p align="center"> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=k0l4s&" alt="k0l4s" /></p>
 </div>
