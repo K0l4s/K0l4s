@@ -43,3 +43,5 @@ Instagram:
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=k0l4s&show_icons=true&locale=en" alt="k0l4s" /> </p>
 <p align="center"> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=k0l4s&" alt="k0l4s" /></p>
 </div>
+<hr>
+THANKS FOR VISIT MY GITHUB. IF YOU ENJOY MY PROJECT, PLEASE FOLLOW ME!
