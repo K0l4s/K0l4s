@@ -44,4 +44,4 @@ Instagram:
 <p align="center"> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=k0l4s&" alt="k0l4s" /></p>
 </div>
 <hr>
-<h1 align="center">THANKS FOR VISIT MY GITHUB. IF YOU ENJOY MY PROJECT, PLEASE FOLLOW ME!</h1>
+<h1 align="center">THANKS FOR VISIT MY GITHUB. IF YOU ENJOY MY PROJECT, YOU CAN CHOOSE TO FOLLOW ME!</h1>
