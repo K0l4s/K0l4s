@@ -6,7 +6,8 @@
 
  - 📞 Phone number: **0827.6262.03**
  - 📫 Email: **trungkienhuynh.contact@gmail.com**
- - 🎓 Education: **HCMC. University Of Technology And Education (Viet Nam)**
+ - 🎓 Education: <img width=50px src="https://github.com/K0l4s/K0l4s/assets/87256083/7586c858-3208-47c0-99ce-b2ecfa31dea1"/>HCMC. University Of Technology And Education
+
  - 🏢 Major: Information Technology
 <p align="left">
  Facebook:  
