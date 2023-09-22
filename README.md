@@ -6,9 +6,9 @@
 
  - 📞 Phone number: **0827.6262.03**
  - 📫 Email: **trungkienhuynh.contact@gmail.com**
- - 🎓 Education: <img width=50px src="https://github.com/K0l4s/K0l4s/assets/87256083/7586c858-3208-47c0-99ce-b2ecfa31dea1"/>HCMC. University Of Technology And Education
+ - 🎓 Education: <a href="https://hcmute.edu.vn/"><img width=50px src="https://github.com/K0l4s/K0l4s/assets/87256083/7586c858-3208-47c0-99ce-b2ecfa31dea1"/></a>
 
- - 🏢 Major: Information Technology
+ - 🏢 Major: <a href="https://fit.hcmute.edu.vn/">Information Technology</a>
 <p align="left">
  Facebook:  
 <a href="https://fb.com/kolaszez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kolaszez" height="30" width="40" /></a>
