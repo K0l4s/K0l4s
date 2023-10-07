@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" alt="Coding" height=300px/> 
 <h3 align="left">Connect with me:</h3>
 
- - 📞 Phone number: **0827.6262.03**
+ - 📞 Phone number: **082 76 26 203 || 032 77 11 231**
  - 📫 Email: **trungkienhuynh.contact@gmail.com**
  - 🎓 Education: <a href="https://hcmute.edu.vn/"><img width=50px src="https://github.com/K0l4s/K0l4s/assets/87256083/7586c858-3208-47c0-99ce-b2ecfa31dea1"/></a>
 
