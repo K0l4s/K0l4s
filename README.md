@@ -1,5 +1,5 @@
 <h1 align="center">Hi visitor, My name is Huỳnh Trung Kiên</h1>
-<h3 align="center">I'm 20 years old. Currently, I am studing Information Technology at HCMC. University of Technology and Education. And at the moment, I reside in Ho Chi Minh City, Vietnam.</h3>
+<h3 align="center">I'm 3rd student at Ho Chi Minh City.</h3>
 <h2></h2>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" alt="Coding" height=300px/> 
 <h3 align="left">Connect with me:</h3>
