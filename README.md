@@ -1,5 +1,5 @@
 <h1 align="center">Hi visitor, My name is Huỳnh Trung Kiên</h1>
-<h3 align="center">I'm 3rd student at Ho Chi Minh City.</h3>
+<h3 align="center">I'm 3rd student at Ho Chi Minh City. I want to become a software developer.</h3>
 <h2></h2>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" alt="Coding" height=300px/> 
 <h3 align="left">Connect with me:</h3>
@@ -8,7 +8,7 @@
  - 📫 Email: **trungkienhuynh.contact@gmail.com**
  - 🎓 Education: <a href="https://hcmute.edu.vn/"><img width=50px src="https://github.com/K0l4s/K0l4s/assets/87256083/7586c858-3208-47c0-99ce-b2ecfa31dea1"/></a>
 
- - 🏢 Major: <a href="https://fit.hcmute.edu.vn/">Information Technology</a>
+ - 🏢 Major: <a href="https://fit.hcmute.edu.vn/">Information Technology - Software Technology</a>
 <p align="left">
  Facebook:  
 <a href="https://fb.com/kolaszez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kolaszez" height="30" width="40" /></a>
